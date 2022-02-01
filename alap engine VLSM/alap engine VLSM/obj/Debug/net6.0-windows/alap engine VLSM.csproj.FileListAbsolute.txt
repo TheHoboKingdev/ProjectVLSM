@@ -1,0 +1,21 @@
+E:\C#\alap engine VLSM\alap engine VLSM\bin\Debug\net6.0-windows\alap engine VLSM.exe
+E:\C#\alap engine VLSM\alap engine VLSM\bin\Debug\net6.0-windows\alap engine VLSM.deps.json
+E:\C#\alap engine VLSM\alap engine VLSM\bin\Debug\net6.0-windows\alap engine VLSM.runtimeconfig.json
+E:\C#\alap engine VLSM\alap engine VLSM\bin\Debug\net6.0-windows\alap engine VLSM.dll
+E:\C#\alap engine VLSM\alap engine VLSM\bin\Debug\net6.0-windows\ref\alap engine VLSM.dll
+E:\C#\alap engine VLSM\alap engine VLSM\bin\Debug\net6.0-windows\alap engine VLSM.pdb
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM.csproj.AssemblyReference.cache
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\App.g.cs
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM_MarkupCompile.cache
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM_MarkupCompile.lref
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\MainWindow.baml
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM.g.resources
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM.AssemblyInfoInputs.cache
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM.AssemblyInfo.cs
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM.csproj.CoreCompileInputs.cache
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM.dll
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\ref\alap engine VLSM.dll
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM.pdb
+E:\C#\alap engine VLSM\alap engine VLSM\obj\Debug\net6.0-windows\alap engine VLSM.genruntimeconfig.cache

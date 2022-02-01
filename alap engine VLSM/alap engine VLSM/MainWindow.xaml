@@ -1,0 +1,31 @@
+﻿<Window x:Class="alap_engine_VLSM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:alap_engine_VLSM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="maszk" HorizontalAlignment="Left" Margin="191,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="20"/>
+        <Label Content="/" HorizontalAlignment="Left" Margin="171,32,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="arrayTb" HorizontalAlignment="Left" Margin="160,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="hostNameLb" Margin="549,53,28,175" Visibility="Hidden"/>
+        <TextBox x:Name="hostNameTb" HorizontalAlignment="Left" Margin="400,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <TextBox x:Name="numberOfHostKTb" HorizontalAlignment="Left" Margin="400,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <Label x:Name="hostName" Content="Host name:" HorizontalAlignment="Left" Margin="400,120,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label x:Name="numberOfHostK" Content="Number of host" HorizontalAlignment="Left" Margin="400,173,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <Label Content="Base IP address with subnet mask" HorizontalAlignment="Left" Margin="43,9,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="array" Content="Array" HorizontalAlignment="Left" Margin="180,111,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="hostNameLable" Content="Network name - Number of hosts" HorizontalAlignment="Left" Margin="549,27,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <TextBox x:Name="elsoOktett" HorizontalAlignment="Left" Margin="43,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="26"/>
+        <TextBox x:Name="harmadikOktett" HorizontalAlignment="Left" Margin="105,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="26"/>
+        <TextBox x:Name="masodikOktett" HorizontalAlignment="Left" Margin="74,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="26"/>
+        <Button x:Name="hozzadasGomb" Content="Hozzáadás" HorizontalAlignment="Left" Margin="460,239,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="generalas" Content="Generálás" HorizontalAlignment="Left" Margin="756,392,0,0" VerticalAlignment="Top" Click="generalas_Click"/>
+        <TextBox x:Name="negyedikOktett" HorizontalAlignment="Left" Margin="137,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="26"/>
+        <RadioButton x:Name="egyenloResz" Content="egyenlő részek" HorizontalAlignment="Left" Margin="322,45,0,0" VerticalAlignment="Top" IsChecked="True" Checked="egyenloResz_Checked"/>
+        <RadioButton x:Name="kulonbozoMeret" Content="különböző méretüek" HorizontalAlignment="Left" Margin="322,70,0,0" VerticalAlignment="Top" Checked="kulonbozoMeret_Checked"/>
+        <Label x:Name="teszt" Content="Label" HorizontalAlignment="Center" Margin="0,223,0,0" VerticalAlignment="Top" Height="189" Width="702"/>
+    </Grid>
+</Window>
