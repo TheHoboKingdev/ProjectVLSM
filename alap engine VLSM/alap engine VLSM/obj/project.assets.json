@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\alap engine VLSM\\alap engine VLSM\\alap engine VLSM.csproj",
+      "projectUniqueName": "E:\\C#\\Projekt2\\ProjectVLSM\\alap engine VLSM\\alap engine VLSM\\alap engine VLSM.csproj",
       "projectName": "alap engine VLSM",
-      "projectPath": "E:\\C#\\alap engine VLSM\\alap engine VLSM\\alap engine VLSM.csproj",
+      "projectPath": "E:\\C#\\Projekt2\\ProjectVLSM\\alap engine VLSM\\alap engine VLSM\\alap engine VLSM.csproj",
       "packagesPath": "C:\\Users\\Szép-Szabó Bence\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\alap engine VLSM\\alap engine VLSM\\obj\\",
+      "outputPath": "E:\\C#\\Projekt2\\ProjectVLSM\\alap engine VLSM\\alap engine VLSM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Szép-Szabó Bence\\AppData\\Roaming\\NuGet\\NuGet.Config",
